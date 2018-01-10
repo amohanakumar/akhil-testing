@@ -3,6 +3,7 @@
 void main() {
 	int firstNumber, secondNumber, sumOfTwoNumbers;
 	printf("Enter two integers c,d: ");
+	printf("Hello This is shabina")
 	scanf("%d%d", &firstNumber, &secondNumber);
 	printf("Hello this is Akhil");
 	sumOfTwoNumbers = firstNumber + secondNumber;
