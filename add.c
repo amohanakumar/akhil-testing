@@ -2,7 +2,7 @@
 
 void main() {
 	int firstNumber, secondNumber, sumOfTwoNumbers;
-	printf("Enter two integers c,d: ");
+	printf("Enter two integers z,f: ");
 	printf("Hello This is shabina")
 	scanf("%d%d", &firstNumber, &secondNumber);
 	sumOfTwoNumbers = firstNumber + secondNumber;
